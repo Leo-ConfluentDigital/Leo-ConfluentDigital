@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Leo-ConfluentDigital
 - 👀 I’m interested in everything I do
 - 🌱 I’m currently learning at ESGI - Lyon
-- 📫 How to reach me : leo@onfluent-digital.com
+- 📫 How to reach me : leo@confluent-digital.com
+- 📫 Personnal account : https://github.com/achedon12
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love chocolate
