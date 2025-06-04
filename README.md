@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/leo-confluentdigital/)
-- [Twitter](https://twitter.com/LeoConfluent)
-- [Personal Website](https://www.leoconfluentdigital.com)
+- [LinkedIn](https://www.linkedin.com/in/leo-deroin/)
+- [Personal Website](https://www.leoderoin.fr)
 
 ## 📝 Recent Blog Posts
 
